@@ -22,7 +22,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Newsletter",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
@@ -33,7 +33,7 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Tools",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Courses",
       "pages": [
         "api-reference/introduction"
       ]
