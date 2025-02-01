@@ -25,21 +25,15 @@
     "name": "Newsletter",
     "url": "https://dashboard.mintlify.com"
   },
-
-    "tabs": [
-    {
-      "name": "Courses",
-      "url": "api-reference"
-    }
-  ],
-  
+  "primaryTab": {
+    "name": "Tools"
+  },
   "tabs": [
     {
       "name": "Courses",
       "url": "api-reference"
     }
   ],
-  
   "navigation": [
     {
       "group": "Get Started",
@@ -77,9 +71,5 @@
       ]
     }
   ],
-  "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
-  }
+  ...
 }
