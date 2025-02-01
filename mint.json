@@ -25,6 +25,14 @@
     "name": "Newsletter",
     "url": "https://dashboard.mintlify.com"
   },
+
+    "tabs": [
+    {
+      "name": "Courses",
+      "url": "api-reference"
+    }
+  ],
+  
   "tabs": [
     {
       "name": "Courses",
